@@ -26,3 +26,4 @@ Team logos:
 | <img src="./docs/images/chat-integrations-logo.png" width=200 alt="github/chat-integrations logo"/> | <img src="./docs/images/chat-integrations-reviewers-logo.png" width=200 alt="github/chat-integrations-reviewers logo"/>  |
 
 The Gimp file with the logo can be found [here](./docs/images/chat-integrations-logo.xcf) in case you want to change it.
+fdxcgvhbjn
