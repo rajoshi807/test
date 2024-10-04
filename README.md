@@ -3,8 +3,11 @@ whirwir
 Welcome to chat integrations! Regardless of the repo name this is the home of
 everything related to chat integrations (Slack, Teams and Scheduled Reminders)
 and the home of the `@github/chat-integrations` team. dfxgchvjk
+erhiwtjo4pt
+erowo4t
 szdfxgchvbjkn
 ## About 
+ekfr kew
 
 The GitHub integration for Slack/Teams gives you and your teams full visibility
 into your GitHub projects right in Slack/Teams channels, where you can generate
@@ -29,3 +32,6 @@ The Gimp file with the logo can be found [here](./docs/images/chat-integrations-
 jfkf
 refi3orj3r34r
 erof
+elr3l4rj34r
+kjefk3r
+ekrjj3kr4
