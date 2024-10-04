@@ -32,5 +32,6 @@ The Gimp file with the logo can be found [here](./docs/images/chat-integrations-
 jfkf
 refi3orj3r34r
 erof
+elr3l4rj34r
 kjefk3r
 ekrjj3kr4
