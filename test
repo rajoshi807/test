@@ -1,21 +1,26 @@
-xtfcghvbjnk
-cgfvhbjnkml
-<asdf>
-xfcghvjbknlm
-</asdf>
-cgfvhbjnkml,
-<xfcghvjbk>
-fcgvhbjknlm;,
-<cfgvhbjn>
-xdfcgvhbjknlm
+<template>
+  <Calculator msg="Welcome to Your Vue.js App"/>
+</template>
+
 <script>
-serdtfgyhujk
-xfcgvhbjn
+import Calculator from './components/Calculator.vue'
+
+export default {
+  name: 'App',
+  components: {
+    Calculator
+  }
+}
 </script>
-ejhrfkw4t
-erto4t
-ert4ot5t
-erjk4t
-wekjrk3r
-3kjrn2l4r
-nkr234r
+
+<style>
+#app {
+  display: flex;
+  justify-content: center;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  text-align: center;
+  background-color: rgb(2, 7, 36);
+  min-height: 100vh;
+  vertical-align: middle;
+}
+</style>
