@@ -15,6 +15,7 @@ ideas, triage issues and collaborate with other teams to move projects forward.
 
 This includes getting notifications on Slack/Teams about the things that
 happens on your subscribed repositories and also scheduled reminders.
+<sferf>
 
 ## Who we are
 
