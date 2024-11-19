@@ -11,7 +11,7 @@ into your GitHub projects right in Slack/Teams channels, where you can generate
 ideas, triage issues and collaborate with other teams to move projects forward. 
 
 This includes getting notifications on Slack/Teams about the things that
-happens on your subscribed repositories and also scheduled reminders.
+happens on your subscribed repositories and also scheduled reminders. xdfcgvhbjnk
 
 ## Who we are
 
