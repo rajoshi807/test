@@ -1,5 +1,5 @@
-# Chat Integrations for GitHub rdxxfcgvhj dxfcgvhbjkn fcgvhjbknl hmmm dxfcgvhbjnkm
-whirwir 
+# Chat Integrations for GitHub rdxxfcgvhj dxfcgvhbjkn fcgvhjbknl hmmm
+whirwir erowtow4t5 
 Welcome to chat integrations! Regardless of the repo name this is the home of
 everything related to chat integrations (Slack, Teams and Scheduled Reminders)
 and the home of the `@github/chat-integrations` team. dfxgchvjk
@@ -11,7 +11,8 @@ into your GitHub projects right in Slack/Teams channels, where you can generate
 ideas, triage issues and collaborate with other teams to move projects forward. 
 
 This includes getting notifications on Slack/Teams about the things that
-happens on your subscribed repositories and also scheduled reminders. xdfcgvhbjnk zsdxfcgvhbjnk
+happens on your subscribed repositories and also scheduled reminders.
+<sferf>
 
 ## Who we are
 
