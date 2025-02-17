@@ -1,5 +1,10 @@
 #include <stdio.h> 
-  
+
+static hello<IAbcd> current_context()
+{
+  return context;
+}
+
 int main() 
 { 
     char a = 30; 
