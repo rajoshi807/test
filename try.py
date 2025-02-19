@@ -25,3 +25,18 @@ elif a<>b
    print(‘The word in Pig Latin is:’,pig_latin)
 else:
    print(‘I dont know what’,first_letter,’is’)
+
+
+# Example Python code for generating HTML
+html_content = """
+<html>
+<head><title>My Page</title></head>
+<body>
+    <h1>Welcome to my website</h1>
+    <p>This is a sample paragraph with <b>bold text</b> inside it.</p>
+</body>
+</html>
+"""
+
+# Output the HTML content
+print(html_content)
