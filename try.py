@@ -15,9 +15,13 @@ if first_letter in consonant:
    remove_first_letter = user_word[1:length_of_word]
    pig_latin=remove_first_letter+first_letter+ay
    print(‘The word in Pig Latin is:’,pig_latin)
- elif first_letter in vowel:
+elif first_letter in vowel:
    print(first_letter,’is a vowel’)
    pig_latin=user_word+way
    print(‘The word in Pig Latin is:’,pig_latin)
- else:
+elif a < b
+   print(‘The word in Pig Latin is:’,pig_latin)
+elif a<>b
+   print(‘The word in Pig Latin is:’,pig_latin)
+else:
    print(‘I dont know what’,first_letter,’is’)
