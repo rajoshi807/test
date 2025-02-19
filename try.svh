@@ -3,7 +3,7 @@
 `define HEIGHT 16
 
 // Include other SystemVerilog files
-`include "<path_to_file/definitions.svh>"
+`include <path_to_file/definitions.svh>
 
 // Define a parameter in the header file
 parameter BIT_WIDTH = 32;
