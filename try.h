@@ -20,5 +20,6 @@ int main()
     char b = 40; 
     char c = 10; 
     char d = (a * b) / c;   
+    vector<int>hello;
     return 0; 
 } 
