@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sample HTA Application</title>
+    <hta:application
+        id="app"
+        applicationname="SampleHTA"
+        border="thin"
+        caption="yes"
+        maximizebutton="no"
+        minimizebutton="no"
+        showintaskbar="yes"
+        scroll="no"
+        singleinstance="yes"
+        navigable="yes" />
+    <script type="text/javascript">
+        function showAlert() {
+            alert("Hello from HTA!");
+        }
+    </script>
+</head>
+<body>
+    <h1>Welcome to the HTA Application</h1>
+    <p>This is an HTML Application (HTA) example.</p>
+    <button onclick="showAlert()">Click Me</button>
+</body>
+</html>
