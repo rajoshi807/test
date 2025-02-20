@@ -3,6 +3,17 @@
 // take input from the user
 const number = parseInt(prompt('Enter a positive integer: '));
 
+// JSX example using angle brackets
+function HelloWorld() {
+  return <h1>Hello, World!</h1>;
+}
+
+function identity<T>(value: T): T {
+    return value;
+}
+
+export default HelloWorld;
+
 // checking if number is negative
 if (number < 0) {
     console.log('Error! Factorial for negative number does not exist.');
