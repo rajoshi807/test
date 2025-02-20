@@ -11,6 +11,8 @@ static hello<IAbcd> current_context()
         com_ptr<IContextCallback> context;
         vector<IContextCallback> context;
         vector<IContextCallback>context;
+        vector<int>context;
+        vector<int> context;
         // This will fail if COM is not initialized. Treat as implicit MTA.
         // Do not use IID_PPV_ARGS to avoid ambiguity between ::IUnknown and winrt::IUnknown.
         CoGetObjectContext(__uuidof(IContextCallback), reinterpret_cast<void**>(&context));
