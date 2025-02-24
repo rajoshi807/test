@@ -1,5 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
+
+ static hello<IContextCallback> current_context()
+   {
+       hello<IContextCallback> context;
+       vector<int> context;
+       return context;
+   }
  
 int main()
 {
